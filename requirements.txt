@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+httpx
+pydantic-settings
+feedparser
+python-dateutil
+jinja2
+pydantic-settings
+chromadb
+pypdf
+pydantic[email]
+python-multipart
+sqlmodel
